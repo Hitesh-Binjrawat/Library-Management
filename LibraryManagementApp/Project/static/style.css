@@ -1,0 +1,66 @@
+.card{
+    justify-content: center;
+    background-color: #e7e9e4;
+    height: fit-content;
+   width: 50%;
+   text-align: center;
+   margin-left: 25%;
+   margin-top: 10%;
+   margin-bottom: 15%;  
+   padding: 20px 25px 40px 40px;
+}
+.addButton{
+    justify-content: center;
+    background-color: #e7e9e4;
+    height: fit-content;
+   width: fit-content;
+   text-align: center;
+   margin-left: 25%;
+   margin-top: 10%;
+   margin-bottom: 15%;  
+   padding: 20px 25px 40px 40px;
+}
+.pad{
+    padding: 10px 10px 10px 10px ;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.card1{
+    justify-content: center;
+    background-color: #e7e9e4;
+    height: 75%;
+    width: 50%; 
+    padding: 20px 25px 40px 40px;
+}
+
+.testcard1{
+    justify-content: center;
+    background-color: #e7e9e4;
+   width: fit-content;
+   height: 320px; 
+   border-spacing: 20px;
+   white-space: 10px;
+   margin: 10px 10px 10px 0px;
+}
+.testimage{
+    display: block;
+    padding: 30px 10px 10px 20px;
+    width: 250px;
+    height: 300px;
+}
+.testcard2{
+    justify-content: center;
+    background-color:whitesmoke;
+    height: 320px;
+   margin:10px 10px 10px 0px;
+}
+.pdfView{
+        position:left;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+}

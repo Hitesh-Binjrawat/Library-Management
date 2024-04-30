@@ -1,0 +1,8 @@
+flask
+flask-SqlAlchemy
+redis
+celery
+flask_restful
+smtplib
+email
+flask_jwt_extended
